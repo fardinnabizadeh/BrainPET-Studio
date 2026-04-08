@@ -168,14 +168,13 @@ License:            MIT
 
 
 SYSTEM REQUIREMENTS
--------------------Minimum             Recommended
-OS:Windows 10          Windows 11
-RAM:            8 GB                16 GB
-Disk space:     2 GB                5 GB
-Display:        1280x800            1920x1080
-GPU:            Not required        Not required
+Minimum            
+OS: Windows 10          
+RAM:            8 GB
+Disk space:     2 GB
+GPU:            Not required        
 
-For macOS/Linux, run from source (see Installation above).
+
 
 
 ROADMAP
