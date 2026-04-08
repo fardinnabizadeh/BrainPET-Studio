@@ -5,6 +5,7 @@ Open-source desktop app for quantitative PET neuroimaging analysis — atlas-bas
 ================================================================
 BrainPET Studio
 ================================================================
+<img width="588" height="643" alt="Logo" src="https://github.com/user-attachments/assets/d18a6bdf-c3d1-44d3-8176-620981cbf9f8" />
 
 
 OVERVIEW
