@@ -211,7 +211,7 @@ LICENSE
 -------
 Fardin Nabizadeh
 
-Copyright (c) 2026 BrainPET Studio Contributors
+Copyright (c) 2026 BrainPET Studio 
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
