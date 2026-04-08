@@ -231,7 +231,7 @@ Bug reports & feature requests:
   https://github.com/fardinnabizadeh/brainpet-studio/issues
 
 Discussions & questions:
-  https://github.com/fardinnabizadeh/brainpet-studio/discussions
+  (https://github.com/fardinnabizadeh/BrainPET-Studio/issues/)
 
 Email: <fardinnabizade1378@gmail.com>
 
