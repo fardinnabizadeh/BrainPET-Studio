@@ -45,7 +45,7 @@ Windows (Recommended):
   bundled within the installer.
 
 From Source (Advanced):
-  git clone https://github.com/your-username/brainpet-studio.git
+  git clone https://github.com/fardinnabizadeh/brainpet-studio.git
   cd brainpet-studio
   pip install -r requirements.txt
   python main.py
