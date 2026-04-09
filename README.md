@@ -44,11 +44,7 @@ Windows (Recommended):
   No Python installation required. All dependencies are
   bundled within the installer.
 
-From Source (Advanced):
-  git clone https://github.com/fardinnabizadeh/brainpet-studio.git
-  cd brainpet-studio
-  pip install -r requirements.txt
-  python main.py
+
 
 
 CORE FEATURES
