@@ -135,6 +135,15 @@ QUICK START
      --ref-mask cereb_mask.nii.gz \
      --output-dir ./results
 
+Screenshots
+---------------------
+![Sc1](https://github.com/user-attachments/assets/bfd82cda-4687-4b39-b7ce-84b9c1fa9bf9)
+![Sc2](https://github.com/user-attachments/assets/b86a7f5c-5525-498d-a8f4-fafb246180ba)
+![Sc3](https://github.com/user-attachments/assets/4997f602-85ec-4b01-9d18-47582288e502)
+![Sc4](https://github.com/user-attachments/assets/bd94d5ca-c8ac-433e-8995-b1b238bec99e)
+
+
+
 
 VALIDATION & ACCURACY
 ---------------------
